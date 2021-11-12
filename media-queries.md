@@ -1,3 +1,5 @@
 # What are media-queries 
 
-medafkl adsf
+# What are media queries breakpoints 
+
+# Important breakpoints
